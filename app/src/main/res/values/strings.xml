@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wishers</string>
+    <string name="title">Escoje que deseo quieres para hoy..</string>
+    <string name="pedirdeseo">Pedir Deseo</string>
+    <string name="cumplirdeseo">Cumplir Deseo</string>
+    <string name="Pedirdeseo">Pedir Deseo</string>
+    <string name="usuario">Natalia</string>
+    <string name="indica">Indica que quieres hacer hoy:</string>
+
+</resources>
